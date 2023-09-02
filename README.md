@@ -2,8 +2,6 @@ Esse repositório contém o código do [aplicativo EstabGran](https://pedreirajr
 
 Para uma explicação introdutória sobre o problema e o modelo matemático utilizado, acesse [esta página do meu blog no RPubs](https://rpubs.com/pedreirajr/EstabGran).
 
-Para citar este trabalho, por favor utilize a referência abaixo:
+Para citar este trabalho, por favor utilize a referência do artigo abaixo:
 
-Pedreira Junior, J.U. ; Silva, M. F. ; Wintruff, N. C. ; Moraes, F. R. **EstabGran: uma aplicação web para otimização de misturas de bases de pavimentos estabilizadas granulometricamente**. In: 37º Congresso de Pesquisa e Ensino em Transportes, 2023, Santos. Congresso de Pesquisa e Ensino em Transportes, 2023. v. 1. p. 1-12.
-
-
+Pedreira Junior, J. U. ; Silva, M. F. ; Wintruff, N. C. ; Moraes, F. R. **EstabGran: uma aplicação web para otimização de misturas de bases de pavimentos estabilizadas granulometricamente**. In: 37º Congresso de Pesquisa e Ensino em Transportes, 2023, Santos. Anais do 37º Congresso de Pesquisa e Ensino em Transportes, 2023. v. 1. p. 1-12.
