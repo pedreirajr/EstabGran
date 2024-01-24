@@ -32,7 +32,7 @@ ui <- dashboardPage(
     hr(),
     actionButton('help', label="Entenda o Modelo", 
                  icon = icon("calculator"), 
-                 onclick ="window.open('https://rpubs.com/pedreirajr/EstabGran')")
+                 onclick ="window.open('https://www.researchgate.net/publication/375516275_EstabGran_Uma_aplicacao_web_para_otimizacao_de_misturas_de_bases_de_pavimentos_estabilizadas_granulometricamente')")
     
   ),
   
